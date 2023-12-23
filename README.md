@@ -1,4 +1,4 @@
-# Pneumonia-CNN
+# Pneumonia Classifier Using CNN
 
 Source Code:
 https://drive.google.com/file/d/1Fg3GyndJxB7bPbl-mZgMBlLPRYGvxiyu/view?usp=sharing
